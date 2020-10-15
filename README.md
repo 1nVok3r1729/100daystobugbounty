@@ -13,6 +13,11 @@ Get it [here](https://github.com/muhe7/gf-pattern).
 ▶ waybackulrs google.com | gf open-redirect | tee google.txt
 ```
 
+### Payloads: 
+[wordlist](https://github.com/muhe7/Payloads)
+
+#### Payloads from h1 reports:
+
 
 
 
