@@ -8,9 +8,8 @@ Get it [here](https://github.com/muhe7/gf-pattern).
 ### One-Liner:
 `
 ▶ gau http://google.com -s  | head -n 5000 > google.txt; cat google.txt | sort -u | grep -a -i \=http > google_redirects.txt
-`
 
-`
+
 ▶ waybackulrs google.com | gf open-redirect | tee google.txt
 `
 
