@@ -1,3 +1,3 @@
 # 100daystobugbounty
 Let's learn
-# Note on Open Redirect:
+## * Note on Open Redirect:
